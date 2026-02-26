@@ -59,13 +59,18 @@ RAG combines retrieval with generation. Instead of asking the LLM to answer from
 
 ## Sample Questions
 
-The notebook tests the system with health-related questions:
+The notebook tests the system with 10 health-related questions:
 
 - Why is vaccination important for public health?
 - What are the common side effects of antibiotics?
 - How does vitamin D deficiency affect the body?
 - What are the major risk factors associated with heart disease?
 - How does Covid‑19 primarily spread between people?
+- What are the main symptoms of malaria?
+- What is the recommended diet for preventing type 2 diabetes?
+- How can high blood pressure be controlled through lifestyle?
+- What are the typical signs of hepatitis infection?
+- Why is regular physical activity beneficial for overall health?
 
 
 
